@@ -39,4 +39,4 @@ for ind in individuals :
 
 print('avg shape of the data', np.array(shapes).mean(axis=0))
 
-with open('/home1/mforbush/grips2024/problemIndividuals.txt', 'w') as f : f.write('\n'.join([f'{ind}' for ind in individuals]))
+with open('/home1/mforbush/grips2024/problemIndividuals.txt', 'w') as f : f.write('\n'.join([f'{ind}' for ind in problemIndividuals]))

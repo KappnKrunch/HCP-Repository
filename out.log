@@ -2,7 +2,7 @@ Miniconda3 23.1.0, env base activated
 100206
 data shape (144, 168, 110, 95)
 shape of avg activation (144, 168, 110)
-avg activation 572.2901598938222
+avg activation 572.0982959239271
 1056 individuals
 loaded 100206
 loaded 100307
@@ -28,12 +28,12 @@ loaded 103515
 loaded 103818
 loaded 104012
 loaded 104416
-loaded 104820
-loaded 105014
-loaded 105115
-loaded 105216
-loaded 105620
-loaded 105923
+--> problem with 104820 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/104820/Diffusion/data/data.nii.gz'
+--> problem with 105014 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/105014/Diffusion/data/data.nii.gz'
+--> problem with 105115 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/105115/Diffusion/data/data.nii.gz'
+--> problem with 105216 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/105216/Diffusion/data/data.nii.gz'
+--> problem with 105620 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/105620/Diffusion/data/data.nii.gz'
+--> problem with 105923 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/105923/Diffusion/data/data.nii.gz'
 loaded 106016
 loaded 106319
 loaded 106521
@@ -44,46 +44,46 @@ loaded 107422
 loaded 107725
 loaded 108020
 loaded 108121
-loaded 108222
-loaded 108323
-loaded 108525
-loaded 108828
-loaded 109123
-loaded 109830
-loaded 110007
-loaded 110411
-loaded 110613
-loaded 111009
-loaded 111211
-loaded 111312
-loaded 111413
-loaded 111514
-loaded 111716
-loaded 112112
-loaded 112314
-loaded 112516
-loaded 112819
-loaded 112920
-loaded 113215
-loaded 113316
-loaded 113619
-loaded 113821
-loaded 113922
-loaded 114116
-loaded 114217
-loaded 114318
-loaded 114419
-loaded 114621
-loaded 114823
-loaded 115017
-loaded 115219
-loaded 115320
-loaded 115724
-loaded 115825
-loaded 116221
-loaded 116423
-loaded 116524
-loaded 116726
+--> problem with 108222 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/108222/Diffusion/data/data.nii.gz'
+--> problem with 108323 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/108323/Diffusion/data/data.nii.gz'
+--> problem with 108525 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/108525/Diffusion/data/data.nii.gz'
+--> problem with 108828 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/108828/Diffusion/data/data.nii.gz'
+--> problem with 109123 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/109123/Diffusion/data/data.nii.gz'
+--> problem with 109830 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/109830/Diffusion/data/data.nii.gz'
+--> problem with 110007 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/110007/Diffusion/data/data.nii.gz'
+--> problem with 110411 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/110411/Diffusion/data/data.nii.gz'
+--> problem with 110613 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/110613/Diffusion/data/data.nii.gz'
+--> problem with 111009 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/111009/Diffusion/data/data.nii.gz'
+--> problem with 111211 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/111211/Diffusion/data/data.nii.gz'
+--> problem with 111312 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/111312/Diffusion/data/data.nii.gz'
+--> problem with 111413 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/111413/Diffusion/data/data.nii.gz'
+--> problem with 111514 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/111514/Diffusion/data/data.nii.gz'
+--> problem with 111716 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/111716/Diffusion/data/data.nii.gz'
+--> problem with 112112 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/112112/Diffusion/data/data.nii.gz'
+--> problem with 112314 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/112314/Diffusion/data/data.nii.gz'
+--> problem with 112516 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/112516/Diffusion/data/data.nii.gz'
+--> problem with 112819 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/112819/Diffusion/data/data.nii.gz'
+--> problem with 112920 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/112920/Diffusion/data/data.nii.gz'
+--> problem with 113215 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/113215/Diffusion/data/data.nii.gz'
+--> problem with 113316 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/113316/Diffusion/data/data.nii.gz'
+--> problem with 113619 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/113619/Diffusion/data/data.nii.gz'
+--> problem with 113821 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/113821/Diffusion/data/data.nii.gz'
+--> problem with 113922 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/113922/Diffusion/data/data.nii.gz'
+--> problem with 114116 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/114116/Diffusion/data/data.nii.gz'
+--> problem with 114217 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/114217/Diffusion/data/data.nii.gz'
+--> problem with 114318 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/114318/Diffusion/data/data.nii.gz'
+--> problem with 114419 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/114419/Diffusion/data/data.nii.gz'
+--> problem with 114621 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/114621/Diffusion/data/data.nii.gz'
+--> problem with 114823 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/114823/Diffusion/data/data.nii.gz'
+--> problem with 115017 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/115017/Diffusion/data/data.nii.gz'
+--> problem with 115219 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/115219/Diffusion/data/data.nii.gz'
+--> problem with 115320 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/115320/Diffusion/data/data.nii.gz'
+--> problem with 115724 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/115724/Diffusion/data/data.nii.gz'
+--> problem with 115825 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/115825/Diffusion/data/data.nii.gz'
+--> problem with 116221 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/116221/Diffusion/data/data.nii.gz'
+--> problem with 116423 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/116423/Diffusion/data/data.nii.gz'
+--> problem with 116524 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/116524/Diffusion/data/data.nii.gz'
+--> problem with 116726 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/116726/Diffusion/data/data.nii.gz'
 loaded 117021
 loaded 117122
 loaded 117324
@@ -224,26 +224,26 @@ loaded 146432
 loaded 146533
 loaded 146634
 loaded 146735
---> problem with 146836 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/146836/Diffusion/data/data.nii.gz'
---> problem with 146937 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/146937/Diffusion/data/data.nii.gz'
---> problem with 147030 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/147030/Diffusion/data/data.nii.gz'
---> problem with 147636 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/147636/Diffusion/data/data.nii.gz'
---> problem with 147737 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/147737/Diffusion/data/data.nii.gz'
---> problem with 148032 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/148032/Diffusion/data/data.nii.gz'
---> problem with 148133 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/148133/Diffusion/data/data.nii.gz'
---> problem with 148335 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/148335/Diffusion/data/data.nii.gz'
---> problem with 148436 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/148436/Diffusion/data/data.nii.gz'
---> problem with 148840 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/148840/Diffusion/data/data.nii.gz'
---> problem with 148941 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/148941/Diffusion/data/data.nii.gz'
---> problem with 149236 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/149236/Diffusion/data/data.nii.gz'
---> problem with 149337 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/149337/Diffusion/data/data.nii.gz'
---> problem with 149539 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/149539/Diffusion/data/data.nii.gz'
---> problem with 149741 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/149741/Diffusion/data/data.nii.gz'
---> problem with 149842 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/149842/Diffusion/data/data.nii.gz'
---> problem with 150019 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/150019/Diffusion/data/data.nii.gz'
---> problem with 150524 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/150524/Diffusion/data/data.nii.gz'
---> problem with 150625 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/150625/Diffusion/data/data.nii.gz'
---> problem with 150726 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/150726/Diffusion/data/data.nii.gz'
+loaded 146836
+loaded 146937
+loaded 147030
+loaded 147636
+loaded 147737
+loaded 148032
+loaded 148133
+loaded 148335
+loaded 148436
+loaded 148840
+loaded 148941
+loaded 149236
+loaded 149337
+loaded 149539
+loaded 149741
+loaded 149842
+loaded 150019
+loaded 150524
+loaded 150625
+loaded 150726
 --> problem with 150928 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/150928/Diffusion/data/data.nii.gz'
 --> problem with 151021 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/151021/Diffusion/data/data.nii.gz'
 --> problem with 151223 No such file or no access: '/public/home2/yqiao_group/yqiao/data/HCP/HCP_3T/151223/Diffusion/data/data.nii.gz'
